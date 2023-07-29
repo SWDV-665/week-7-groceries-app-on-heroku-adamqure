@@ -1,0 +1,14 @@
+ion-content {
+    overflow-y: scroll;
+}
+cdk-virtual-scroll-viewport {
+    height: 100%;
+    width: 100%;
+}
+
+#allDone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
